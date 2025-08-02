@@ -1,12 +1,12 @@
 ## About Me 👋
 
-I'm [Your Name], a [your profession/role] passionate about [key interests]. 
+I'm [Abdul Alim], a [your profession/role] passionate about [key interests]. 
 
 ### 🛠️ Technologies & Skills
-- **Languages**: [e.g., JavaScript, Python, Java]
-- **Frameworks**: [e.g., React, Node.js, Django]
-- **Tools**: [e.g., Git, Docker, AWS]
-- **Other**: [e.g., UI/UX design, Data Analysis]
+- **Languages**: [ JavaScript, Python, Java]
+- **Frameworks**: [ React, Node.js, Django]
+- **Tools**: [ Git, Docker, AWS]
+- **Other**: [ UI/UX design, Data Analysis]
 
 ### 🌱 Currently Learning
 - [Technology/Skill 1]
@@ -18,10 +18,9 @@ I'm [Your Name], a [your profession/role] passionate about [key interests].
 - [Interest 3 - e.g., Cloud Computing]
 
 ### 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn URL]
-- Twitter: [@yourhandle]
-- Email: [your.email@example.com]
-- Portfolio: [yourportfolio.com]
+- LinkedIn: [abdul-alim-125130277]
+- Twitter: [@AlimAlim30460]
+- Email: [mdabdulalima781@gmail.com]
 
 ### 🎯 Goals for 2024
 - [Goal 1 - e.g., Contribute to 5 open source projects]
