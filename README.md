@@ -1,28 +1,47 @@
-## About Me 👋
+## 👋 About Me
 
-I'm [Abdul Alim], a [your profession/role] passionate about [key interests]. 
+Hi, I'm **Abdul Alim** — a passionate **Networking enthusiast** and **Student** with a growing interest in full-stack development and cloud infrastructure.
+
+---
 
 ### 🛠️ Technologies & Skills
-- **Languages**: [ JavaScript, Python, Java]
-- **Frameworks**: [ React, Node.js, Django]
-- **Tools**: [ Git, Docker, AWS]
-- **Other**: [ UI/UX design, Data Analysis]
+
+- **Languages**: JavaScript, Python, Java  
+- **Frameworks**: React, Node.js, Django  
+- **Tools**: Git, Docker, AWS  
+- **Other**: UI/UX Design, Data Analysis
+
+---
 
 ### 🌱 Currently Learning
-- [Technology/Skill 1]
-- [Technology/Skill 2]
+
+- Kubernetes & Container Orchestration  
+- Advanced Networking (CCNA/MikroTik/CCNP)
+
+---
 
 ### 💡 Interests
-- [Interest 1 - e.g., Open Source Contributions]
-- [Interest 2 - e.g., Machine Learning]
-- [Interest 3 - e.g., Cloud Computing]
 
-### 📫 How to Reach Me
-- LinkedIn: [abdul-alim-125130277]
-- Twitter: [@AlimAlim30460]
-- Email: [mdabdulalima781@gmail.com]
+- Open Source Contribution  
+- Cloud Computing  
+- Network Security & Infrastructure
+
+---
 
 ### 🎯 Goals for 2024
-- [Goal 1 - e.g., Contribute to 5 open source projects]
-- [Goal 2 - e.g., Learn [new technology]]
-- [Goal 3 - e.g., Build [project idea]]
+
+- Contribute to 5+ open source projects  
+- Build a personal cloud-based portfolio project  
+- Earn a networking certification ( CCNA )
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: [mdabdulalima781@gmail.com](mailto:mdabdulalima781@gmail.com)  
+- 💼 LinkedIn: [abdul-alim-125130277](https://www.linkedin.com/in/abdul-alim-125130277)  
+- 🐦 Twitter: [@AlimAlim30460](https://twitter.com/AlimAlim30460)
+
+---
+
+### 🚀 Let's connect and create something new !
