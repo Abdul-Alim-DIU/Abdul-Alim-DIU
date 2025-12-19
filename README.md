@@ -16,7 +16,7 @@ Hi, I'm **Abdul Alim** — a passionate **Networking enthusiast** and **Student*
 ### 🌱 Currently Learning
 
 - Kubernetes & Container Orchestration  
-- Advanced Networking (CCNA/MikroTik/CCNP)
+- Advanced Networking (CCNA)
 
 ---
 
@@ -32,7 +32,7 @@ Hi, I'm **Abdul Alim** — a passionate **Networking enthusiast** and **Student*
 
 - Contribute to 5+ open source projects  
 - Build a personal cloud-based portfolio project  
-- Earn a networking certification ( CCNA )
+- Earn a networking certification ( CCNA/MikroTik/CCNP )
 
 ---
 
